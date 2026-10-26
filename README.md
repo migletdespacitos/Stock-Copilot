@@ -1,6 +1,6 @@
 # Retail Stock Copilot & Synthesizer
 
-A free, fully local stock-analysis workspace for retail investors, styled like a Bloomberg terminal.
+A free, fully local stock-analysis workspace for retail investors.
 
 It puts two views of a stock side by side:
 
