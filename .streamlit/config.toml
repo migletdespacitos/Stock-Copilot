@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#FF9E00"
+backgroundColor = "#0B0E14"
+secondaryBackgroundColor = "#121722"
+textColor = "#C9D1D9"
+font = "monospace"
+baseRadius = "none"        # Streamlit >= 1.44; older versions just warn and ignore it
+
+[browser]
+gatherUsageStats = false
