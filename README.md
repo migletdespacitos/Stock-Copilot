@@ -1,4 +1,4 @@
-# Retail Stock Copilot & Synthesizer
+# Stock Copilot
 
 A free, fully local stock-analysis workspace for retail investors.
 
