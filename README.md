@@ -59,8 +59,8 @@ SEC EDGAR ──► 10-K Items 1 / 1A / 7 ──► bge-small-en-v1.5 ──► 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/migletdespacitos/retail-stock-copilot.git
-cd retail-stock-copilot
+git clone https://github.com/migletdespacitos/Stock-Copilot.git
+cd Stock-Copilot
 ```
 
 ### 2. Install and start Ollama
