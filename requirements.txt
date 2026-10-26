@@ -1,0 +1,12 @@
+streamlit>=1.40
+plotly>=5.22
+pandas>=2.1
+numpy>=1.26
+duckdb>=1.1
+yfinance>=0.2.54
+sec-edgar-downloader>=5.0
+beautifulsoup4>=4.12
+lxml>=5.0
+qdrant-client>=1.12
+sentence-transformers>=3.0
+requests>=2.31
